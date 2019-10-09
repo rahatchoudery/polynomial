@@ -139,7 +139,6 @@ void takeDerivative (list <Node> &pY, list <Node> &pX)
     }
 } //end function
 
-
 //subtract derivative from original polynomial
 void subLists (list <Node> &pZ, list <Node> &pY, list <Node> &pX)
 {
