@@ -57,7 +57,7 @@ int main ()
   int user_coeff;
   list <Node> pX, pY, pZ; //declaration of all lists
 
-  fin.open("numbers.txt"); //open the file
+  fin.open("poly_nums.txt"); //open the file
   
   if (fin.fail())
     {
